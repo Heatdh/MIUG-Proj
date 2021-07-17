@@ -19,12 +19,12 @@ python3 -m venv <name_of_virtualenv>
 source <name_of_virtualenv>/bin/activate
 
 ``` 
-Install the required packages after activating your venv :
+Install the required packages after activating your venv (need to navigate first to your project root if your venv is somewhere else ):
 ```bash
 pip install -r requirements.txt
 ``` 
 # Note
-You can use [anaconda ](https://www.anaconda.com/) if you prefer using a gui to install the pacakges but we don't recommend that as using command line and pip package manager will be probably more needed in your future projects
+You can use [anaconda ](https://www.anaconda.com/) if you prefer using a gui to install the pacakges but we don't recommend that as using command line and pip package manager will be probably more needed in your future projects. (for installing the requirements same command can be used)
 
 
 
