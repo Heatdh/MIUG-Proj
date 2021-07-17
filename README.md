@@ -6,4 +6,25 @@ testing. The provided dataset is a subset of the North Carolina Policing Dataset
 ## Getting starting 
 ### Installing project required packages 
 In order to avoid compatibility issues we highly recommend creating a virtual environment for the project <br /> 
+On Windows
+```bash
+py -m venv <name_of_virtualenv>
+//activate it 
+<name_of_virtualenv>\Scripts\activate.bat
+
+```
+on linux
+```bash
+python3 -m venv <name_of_virtualenv>
+source <name_of_virtualenv>/bin/activate
+
+``` 
+Install the required packages after activating your venv :
+```bash
+pip install -r requirements.txt
+``` 
+# Note
+You can use anaconda if you prefer using a gui to install the pacakges but we don't recommend that as using command line and pip package manager will be probably more needed in your future projects
+
+
 
