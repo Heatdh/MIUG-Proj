@@ -24,7 +24,7 @@ Install the required packages after activating your venv :
 pip install -r requirements.txt
 ``` 
 # Note
-You can use anaconda if you prefer using a gui to install the pacakges but we don't recommend that as using command line and pip package manager will be probably more needed in your future projects
+You can use anaconda [anaconda ](https://www.anaconda.com/) if you prefer using a gui to install the pacakges but we don't recommend that as using command line and pip package manager will be probably more needed in your future projects
 
 
 
