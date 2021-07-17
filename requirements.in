@@ -1,0 +1,8 @@
+pathlib
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+pip-tools
+pytest
