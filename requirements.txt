@@ -44,8 +44,6 @@ pathlib==1.0.1
     # via -r requirements.in
 pep517==0.10.0
     # via pip-tools
-pillow==8.3.1
-    # via matplotlib
 pip-tools==6.2.0
     # via -r requirements.in
 pluggy==0.13.1
